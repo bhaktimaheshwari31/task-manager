@@ -34,7 +34,7 @@ npm start
 ![Login Page](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.jpg)
+![Dashboard](screenshots/dashboard.png)
 
 ## Developer
 
