@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)http://localhost:3000/login -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <link rel="icon" href="http://localhost:3000/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Web site created using create-react-app">
+    <link rel="apple-touch-icon" href="http://localhost:3000/logo192.png">
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="http://localhost:3000/manifest.json">
+    <!--
+      Notice the use of  in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  <script defer="" src="./login_files/bundle.js.download"></script><style>body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9pbmRleC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxTQUFTO0VBQ1Q7O2NBRVk7RUFDWixtQ0FBbUM7RUFDbkMsa0NBQWtDO0FBQ3BDOztBQUVBO0VBQ0U7YUFDVztBQUNiIiwic291cmNlc0NvbnRlbnQiOlsiYm9keSB7XG4gIG1hcmdpbjogMDtcbiAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ1NlZ29lIFVJJywgJ1JvYm90bycsICdPeHlnZW4nLFxuICAgICdVYnVudHUnLCAnQ2FudGFyZWxsJywgJ0ZpcmEgU2FucycsICdEcm9pZCBTYW5zJywgJ0hlbHZldGljYSBOZXVlJyxcbiAgICBzYW5zLXNlcmlmO1xuICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDtcbiAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbn1cblxuY29kZSB7XG4gIGZvbnQtZmFtaWx5OiBzb3VyY2UtY29kZS1wcm8sIE1lbmxvLCBNb25hY28sIENvbnNvbGFzLCAnQ291cmllciBOZXcnLFxuICAgIG1vbm9zcGFjZTtcbn1cbiJdLCJzb3VyY2VSb290IjoiIn0= */</style></head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"><div style="display: flex; min-height: 100vh; font-family: &quot;Segoe UI&quot;, sans-serif;"><div style="flex: 1 1 0%; background: rgb(17, 24, 39); padding: 40px; display: flex; flex-direction: column; justify-content: space-between;"><div style="display: flex; align-items: center; gap: 10px;"><div style="width: 32px; height: 32px; background: rgb(29, 78, 216); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: 700; color: white; font-size: 16px;">✓</div><span style="font-size: 16px; font-weight: 600; color: white;">Task Manager</span></div><div style="padding: 20px 0px;"><h1 style="font-size: 36px; font-weight: 700; color: white; line-height: 1.3; margin-bottom: 16px;">Manage your tasks,<br>effortlessly.</h1><p style="font-size: 15px; color: rgb(156, 163, 175); line-height: 1.6; margin-bottom: 32px;">Stay organized, focused, and in control of everything you need to do.</p><div style="display: flex; flex-direction: column; gap: 12px;"><div style="display: flex; align-items: center; gap: 10px;"><span style="width: 20px; height: 20px; background: rgb(29, 78, 216); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; color: white; flex-shrink: 0;">✓</span><span style="font-size: 14px; color: rgb(209, 213, 219);">Create &amp; organize tasks</span></div><div style="display: flex; align-items: center; gap: 10px;"><span style="width: 20px; height: 20px; background: rgb(29, 78, 216); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; color: white; flex-shrink: 0;">✓</span><span style="font-size: 14px; color: rgb(209, 213, 219);">Track progress easily</span></div><div style="display: flex; align-items: center; gap: 10px;"><span style="width: 20px; height: 20px; background: rgb(29, 78, 216); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; color: white; flex-shrink: 0;">✓</span><span style="font-size: 14px; color: rgb(209, 213, 219);">Secure &amp; private</span></div></div></div></div><div style="flex: 1 1 0%; background: rgb(249, 250, 251); display: flex; align-items: center; justify-content: center; padding: 40px;"><div style="background: white; border: 0.5px solid rgb(229, 231, 235); border-radius: 16px; padding: 40px; width: 100%; max-width: 400px;"><h2 style="font-size: 24px; font-weight: 700; color: rgb(17, 24, 39); margin-bottom: 6px;">Welcome back</h2><p style="font-size: 14px; color: rgb(107, 114, 128); margin-bottom: 28px;">Sign in to your account</p><form><label style="display: block; font-size: 13px; font-weight: 500; color: rgb(55, 65, 81); margin-bottom: 6px;">Email address</label><input placeholder="you@example.com" required="" type="email" value="" style="width: 100%; height: 40px; background: rgb(249, 250, 251); border: 0.5px solid rgb(229, 231, 235); border-radius: 8px; padding: 0px 14px; font-size: 14px; color: rgb(17, 24, 39); outline: none; margin-bottom: 16px; box-sizing: border-box;" fdprocessedid="0g9dh"><label style="display: block; font-size: 13px; font-weight: 500; color: rgb(55, 65, 81); margin-bottom: 6px;">Password</label><input placeholder="••••••••" required="" type="password" value="" style="width: 100%; height: 40px; background: rgb(249, 250, 251); border: 0.5px solid rgb(229, 231, 235); border-radius: 8px; padding: 0px 14px; font-size: 14px; color: rgb(17, 24, 39); outline: none; margin-bottom: 16px; box-sizing: border-box;" fdprocessedid="h5rfgd"><button type="submit" style="width: 100%; height: 40px; background: rgb(17, 24, 39); color: white; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; border-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer; margin-top: 4px;" fdprocessedid="2g66ir">Sign in →</button></form><p style="text-align: center; margin-top: 20px; font-size: 13px; color: rgb(107, 114, 128);">Don't have an account? <a href="http://localhost:3000/register" style="color: rgb(29, 78, 216); font-weight: 500; text-decoration: none;">Create one</a></p></div></div></div></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  
+
+<span id="PING_IFRAME_FORM_DETECTION" style="display: none;"></span></body></html>
